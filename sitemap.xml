@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/manifest.json</loc>
+    <loc>https://blog.丁超.cc/posts/fd71581c.html</loc>
+    
+    <lastmod>2023-12-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.丁超.cc/manifest.json</loc>
     
     <lastmod>2023-12-15</lastmod>
     
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/4a17b156.html</loc>
+    <loc>https://blog.丁超.cc/posts/4a17b156.html</loc>
     
     <lastmod>2023-12-15</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://blog.丁超.cc/categories/index.html</loc>
     
     <lastmod>2023-12-15</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://blog.丁超.cc/tags/index.html</loc>
     
     <lastmod>2023-12-15</lastmod>
     
@@ -39,7 +48,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://blog.丁超.cc/</loc>
     <lastmod>2023-12-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
