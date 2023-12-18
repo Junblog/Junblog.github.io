@@ -3,11 +3,11 @@
   <title>被伤过的心</title>
   
   <subtitle>A broken heart</subtitle>
-  <link href="https://blog.丁超.cc/atom.xml" rel="self"/>
+  <link href="https://丁超.cc/atom.xml" rel="self"/>
   
-  <link href="https://blog.丁超.cc/"/>
+  <link href="https://丁超.cc/"/>
   <updated>2023-12-16T20:55:22.705Z</updated>
-  <id>https://blog.丁超.cc/</id>
+  <id>https://丁超.cc/</id>
   
   <author>
     <name>被伤过的心</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇</title>
-    <link href="https://blog.丁超.cc/posts/fd71581c.html"/>
-    <id>https://blog.丁超.cc/posts/fd71581c.html</id>
+    <link href="https://丁超.cc/posts/fd71581c.html"/>
+    <id>https://丁超.cc/posts/fd71581c.html</id>
     <published>2023-12-16T12:53:19.000Z</published>
     <updated>2023-12-16T20:55:22.705Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://blog.丁超.cc/posts/4a17b156.html"/>
-    <id>https://blog.丁超.cc/posts/4a17b156.html</id>
+    <link href="https://丁超.cc/posts/4a17b156.html"/>
+    <id>https://丁超.cc/posts/4a17b156.html</id>
     <published>2023-12-15T13:55:39.552Z</published>
     <updated>2023-12-15T15:53:54.476Z</updated>
     
