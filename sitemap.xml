@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://丁超.cc/fcircle/index.html</loc>
+    
+    <lastmod>2023-12-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://丁超.cc/copyright/index.html</loc>
     
     <lastmod>2023-12-18</lastmod>
@@ -92,15 +101,6 @@
   </url>
   
   <url>
-    <loc>https://丁超.cc/fcircle/index.html</loc>
-    
-    <lastmod>2023-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://丁超.cc/about/index.html</loc>
     
     <lastmod>2023-12-17</lastmod>
@@ -175,7 +175,7 @@
 
   <url>
     <loc>https://丁超.cc/</loc>
-    <lastmod>2023-12-18</lastmod>
+    <lastmod>2023-12-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
